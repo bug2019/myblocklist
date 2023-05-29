@@ -1,3 +1,4 @@
+! cnbeta
 cnbeta.com##div[style="display:block !important;position:fixed;bottom:0;margin-top:10px;width:100%;background:#c44;color:#fff;font-size:15px;z-index:99999"]
 cnbeta.com.tw##div[style="display:block !important;position:fixed;bottom:0;margin-top:10px;width:100%;background:#c44;color:#fff;font-size:15px;z-index:99999"]
 www.cnbeta.com.tw##.topContentInner
@@ -15,4 +16,7 @@ hot.cnbeta.com.tw##.pageFooter
 hot.cnbeta.com.tw##.cnbeta-article-vote-tags
 hot.cnbeta.com.tw##.cnbeta-article-comments-postbox
 hot.cnbeta.com.tw###COMMENTS
+! juejin
 juejin.cn##.article-suspended-panel.dynamic-data-ready
+! zhihu
+https://static.zhihu.com/heifetz/5583.*.css
