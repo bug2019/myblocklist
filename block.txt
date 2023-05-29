@@ -15,3 +15,4 @@ hot.cnbeta.com.tw##.pageFooter
 hot.cnbeta.com.tw##.cnbeta-article-vote-tags
 hot.cnbeta.com.tw##.cnbeta-article-comments-postbox
 hot.cnbeta.com.tw###COMMENTS
+juejin.cn##.article-suspended-panel.dynamic-data-ready
