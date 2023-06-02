@@ -18,5 +18,13 @@ hot.cnbeta.com.tw##.cnbeta-article-comments-postbox
 hot.cnbeta.com.tw###COMMENTS
 ! juejin
 juejin.cn##.article-suspended-panel.dynamic-data-ready
-! zhihu
-https://static.zhihu.com/heifetz/5583.*.css
+! oschina
+www.oschina.net##.detail-toolbar-box__inner > .action-box
+www.oschina.net##div.sidebar-section-list.mb.sidebar-section-list--compact.box-card.box-card--shadow:nth-of-type(2)
+www.oschina.net##.sidebar-box__inner
+www.oschina.net###comments
+www.oschina.net###footer
+www.oschina.net###copyright
+www.oschina.net##.secondary-header-box
+www.oschina.net##.user-bar__links
+www.oschina.net##.other-articles-box__inner
