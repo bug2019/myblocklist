@@ -28,3 +28,12 @@ www.oschina.net###copyright
 www.oschina.net##.secondary-header-box
 www.oschina.net##.user-bar__links
 www.oschina.net##.other-articles-box__inner
+my.oschina.net##.detail-toolbar-box__inner > .action-box
+my.oschina.net##div.sidebar-section-list.mb.sidebar-section-list--compact.box-card.box-card--shadow:nth-of-type(2)
+my.oschina.net##.sidebar-box__inner
+my.oschina.net###comments
+my.oschina.net###footer
+my.oschina.net###copyright
+my.oschina.net##.secondary-header-box
+my.oschina.net##.user-bar__links
+my.oschina.net##.other-articles-box__inner
