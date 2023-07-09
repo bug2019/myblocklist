@@ -10,12 +10,16 @@ www.cnbeta.com.tw##.pageHeader.home_articles
 www.cnbeta.com.tw##.cnbeta-article-vote-tags
 www.cnbeta.com.tw###COMMENTS
 www.cnbeta.com.tw##.pageFooter
+www.cnbeta.com.tw##.meta
 hot.cnbeta.com.tw##.pageHeader.home_articles
 hot.cnbeta.com.tw##.cnbeta-home-side
 hot.cnbeta.com.tw##.pageFooter
 hot.cnbeta.com.tw##.cnbeta-article-vote-tags
 hot.cnbeta.com.tw##.cnbeta-article-comments-postbox
 hot.cnbeta.com.tw###COMMENTS
+hot.cnbeta.com.tw##.meta
+hot.cnbeta.com.tw##.cbv810
+hot.cnbeta.com.tw##[src*="//static.cnbetacdn.com/share/r2.gif"]
 ! juejin
 juejin.cn##.article-suspended-panel.dynamic-data-ready
 ! oschina
