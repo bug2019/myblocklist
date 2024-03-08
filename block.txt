@@ -48,3 +48,6 @@ my.oschina.net###copyright
 my.oschina.net##.secondary-header-box
 my.oschina.net##.user-bar__links
 my.oschina.net##.other-articles-box__inner
+! 2024-03-08 https://blog.csdn.net
+blog.csdn.net##.false.passport-login-tip-container
+blog.csdn.net##.left-toolbox
